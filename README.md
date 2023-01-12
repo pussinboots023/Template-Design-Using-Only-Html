@@ -6,6 +6,6 @@ You can build a simple website with just HTML. HTML stands for Hyper Text Markup
 Check Live Link - https://individual-tech.netlify.app/
 
 <br>
-<div style="center> 
-Anonymous Cat 🐈
+<div align="center> 
+Made with ❤️ by Anonymous Cat 🐈
 </div>
